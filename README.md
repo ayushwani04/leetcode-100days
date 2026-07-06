@@ -1,8 +1,31 @@
-# 100 Days of LeetCode 🚀
+# 💯 100 Days of LeetCode
 
-## Goal
-Solve 400+ LeetCode problems using Python.
+## 🎯 Goal
 
-## Progress
+Complete the 100 Days of LeetCode challenge while working toward solving 400+ LeetCode problems using Python.
 
-Day 1 - Two Sum
+## 📈 Progress
+
+| Day | Problem | Difficulty | Topic |
+|------|---------|------------|-------|
+| 1 | Two Sum (#1) | Easy | Arrays |
+| 2 | Contains Duplicate (#217) | Easy | Arrays |
+| 3 | Valid Anagram (#242) | Easy | Hash Map |
+
+**Completed:** 3 / 100 ✅
+
+## 📂 Topics Covered
+
+- Arrays
+- Hash Map
+- Binary Search
+- Linked List
+- Stack
+- Queue
+- Trees
+- Graphs
+- Dynamic Programming
+
+## 💻 Language
+
+- Python 🐍

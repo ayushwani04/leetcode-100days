@@ -11,8 +11,9 @@ Complete the 100 Days of LeetCode challenge while working toward solving 400+ Le
 | 1 | Two Sum (#1) | Easy | Arrays |
 | 2 | Contains Duplicate (#217) | Easy | Arrays |
 | 3 | Valid Anagram (#242) | Easy | Hash Map |
+| 4 | Ransom Note (#383) | Easy | Hash Map |
 
-**Completed:** 3 / 100 ✅
+**Completed:** 4 / 100 ✅
 
 ## 📂 Topics Covered
 

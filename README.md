@@ -13,8 +13,9 @@ Complete the 100 Days of LeetCode challenge while working toward solving 400+ Le
 | 3 | Valid Anagram (#242) | Easy | Hash Map |
 | 4 | Ransom Note (#383) | Easy | Hash Map |
 | 5 | Valid Palindrome (#125) | Easy | Two Pointers |
+| 6 | Valid Parentheses (#20) | Easy | Stack |
 
-**Completed:** 5 / 100 ✅
+**Completed:** 6 / 100 ✅
 
 ## 📂 Topics Covered
 

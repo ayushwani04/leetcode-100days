@@ -14,8 +14,9 @@ Complete the 100 Days of LeetCode challenge while working toward solving 400+ Le
 | 4 | Ransom Note (#383) | Easy | Hash Map |
 | 5 | Valid Palindrome (#125) | Easy | Two Pointers |
 | 6 | Valid Parentheses (#20) | Easy | Stack |
+| 7 | Baseball Game (#682) | Easy | Stack |
 
-**Completed:** 6 / 100 ✅
+**Completed:** 7 / 100 ✅
 
 ## 📂 Topics Covered
 

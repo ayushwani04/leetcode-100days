@@ -15,8 +15,9 @@ Complete the 100 Days of LeetCode challenge while working toward solving 400+ Le
 | 5 | Valid Palindrome (#125) | Easy | Two Pointers |
 | 6 | Valid Parentheses (#20) | Easy | Stack |
 | 7 | Baseball Game (#682) | Easy | Stack |
+| 8 | Isomorphic Strings (#205) | Easy | Hash Map |
 
-**Completed:** 7 / 100 ✅
+**Completed:** 8 / 100 ✅
 
 ## 📂 Topics Covered
 

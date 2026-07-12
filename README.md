@@ -16,8 +16,10 @@ Complete the 100 Days of LeetCode challenge while working toward solving 400+ Le
 | 6 | Valid Parentheses (#20) | Easy | Stack |
 | 7 | Baseball Game (#682) | Easy | Stack |
 | 8 | Isomorphic Strings (#205) | Easy | Hash Map |
+| 9 | Best Time to Buy and Sell Stock (#121) | Easy | Arrays |
 
-**Completed:** 8 / 100 ✅
+**Completed:** 9 / 100 ✅
+
 
 ## 📂 Topics Covered
 

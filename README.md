@@ -18,8 +18,9 @@ Complete the 100 Days of LeetCode challenge while working toward solving 400+ Le
 | 8 | Isomorphic Strings (#205) | Easy | Hash Map |
 | 9 | Best Time to Buy and Sell Stock (#121) | Easy | Arrays |
 | 10 | Merge Sorted Array (#88) | Easy | Arrays |
+| 11 | Remove Duplicates from Sorted Array (#26) | Easy | Two Pointers |
 
-**Completed:** 10 / 100 ✅
+**Completed:** 11 / 100 ✅
 
 
 ## 📂 Topics Covered

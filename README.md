@@ -20,8 +20,9 @@ Complete the 100 Days of LeetCode challenge while working toward solving 400+ Le
 | 10 | Merge Sorted Array (#88) | Easy | Arrays |
 | 11 | Remove Duplicates from Sorted Array (#26) | Easy | Two Pointers |
 | 12 | Remove Element (#27) | Easy | Arrays |
+| 13 | Search Insert Position (#35) | Easy | Binary Search |
 
-**Completed:** 12 / 100 ✅
+**Completed:** 13 / 100 ✅
 
 
 ## 📂 Topics Covered

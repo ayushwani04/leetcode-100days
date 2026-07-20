@@ -24,8 +24,9 @@ Complete the 100 Days of LeetCode challenge while working toward solving 400+ Le
 | 14 | Binary Search (#704) | Easy | Binary Search |
 | 15 | Reverse String (#344) | Easy | Two Pointers |
 | 16 | Move Zeroes (#283) | Easy | Two Pointers |
+| 17 | Two Sum II - Input Array Is Sorted (#167) | Easy | Two Pointers |
 
-**Completed:** 16 / 100 ✅
+**Completed:** 17 / 100 ✅
 
 
 ## 📂 Topics Covered

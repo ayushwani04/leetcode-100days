@@ -25,8 +25,9 @@ Complete the 100 Days of LeetCode challenge while working toward solving 400+ Le
 | 15 | Reverse String (#344) | Easy | Two Pointers |
 | 16 | Move Zeroes (#283) | Easy | Two Pointers |
 | 17 | Two Sum II - Input Array Is Sorted (#167) | Easy | Two Pointers |
+| 18 | Find the Town Judge (#997) | Easy | Graphs |
 
-**Completed:** 17 / 100 ✅
+**Completed:** 18 / 100 ✅
 
 
 ## 📂 Topics Covered

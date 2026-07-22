@@ -26,8 +26,9 @@ Complete the 100 Days of LeetCode challenge while working toward solving 400+ Le
 | 16 | Move Zeroes (#283) | Easy | Two Pointers |
 | 17 | Two Sum II - Input Array Is Sorted (#167) | Easy | Two Pointers |
 | 18 | Find the Town Judge (#997) | Easy | Graphs |
+| 19 | Container With Most Water (#11) | Medium | Two Pointers |
 
-**Completed:** 18 / 100 ✅
+**Completed:** 19 / 100 ✅
 
 
 ## 📂 Topics Covered

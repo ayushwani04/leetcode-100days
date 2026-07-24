@@ -28,8 +28,9 @@ Complete the 100 Days of LeetCode challenge while working toward solving 400+ Le
 | 18 | Find the Town Judge (#997) | Easy | Graphs |
 | 19 | Container With Most Water (#11) | Medium | Two Pointers |
 | 20 | Merge Two Sorted Lists (#21) | Easy | Linked List |
+| 21 | Reverse Linked List (#206) | Easy | Linked List |
 
-**Completed:** 20 / 100 ✅
+**Completed:** 21 / 100 ✅
 
 
 ## 📂 Topics Covered

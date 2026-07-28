@@ -32,8 +32,9 @@ Complete the 100 Days of LeetCode challenge while working toward solving 400+ Le
 | 22 | Linked List Cycle (#141) | Easy | Linked List |
 | 23 | Middle of the Linked List (#876) | Easy | Linked List |
 | 24 | Remove Duplicates from Sorted List (#83) | Easy | Linked List |
+| 25 | Remove Linked List Elements (#203) | Easy | Linked List |
 
-**Completed:** 24 / 100 ✅
+**Completed:** 25 / 100 ✅
 
 
 ## 📂 Topics Covered

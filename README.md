@@ -34,8 +34,9 @@ Complete the 100 Days of LeetCode challenge while working toward solving 400+ Le
 | 24 | Remove Duplicates from Sorted List (#83) | Easy | Linked List |
 | 25 | Remove Linked List Elements (#203) | Easy | Linked List |
 | 26 | Intersection of Two Linked Lists (#160) | Easy | Linked List |
+| 27 | Remove Nth Node From End of List (#19) | Medium | Linked List |
 
-**Completed:** 26 / 100 ✅
+**Completed:** 27 / 100 ✅
 
 
 ## 📂 Topics Covered

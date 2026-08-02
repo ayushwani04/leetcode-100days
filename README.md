@@ -37,8 +37,9 @@ Complete the 100 Days of LeetCode challenge while working toward solving 400+ Le
 | 27 | Remove Nth Node From End of List (#19) | Medium | Linked List |
 | 28 | Palindrome Linked List (#234) | Easy | Linked List |
 | 29 | Maximum Depth of Binary Tree (#104) | Easy | Trees |
+| 30 | Same Tree (#100) | Easy | Trees |
 
-**Completed:** 29 / 100 ✅
+**Completed:** 30 / 100 ✅
 
 
 ## 📂 Topics Covered

@@ -39,8 +39,9 @@ Complete the 100 Days of LeetCode challenge while working toward solving 400+ Le
 | 29 | Maximum Depth of Binary Tree (#104) | Easy | Trees |
 | 30 | Same Tree (#100) | Easy | Trees |
 | 31 | Invert Binary Tree (#226) | Easy | Trees |
+| 32 | Symmetric Tree (#101) | Easy | Trees |
 
-**Completed:** 31 / 100 ✅
+**Completed:** 32 / 100 ✅
 
 
 ## 📂 Topics Covered

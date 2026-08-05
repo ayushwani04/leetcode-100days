@@ -40,8 +40,9 @@ Complete the 100 Days of LeetCode challenge while working toward solving 400+ Le
 | 30 | Same Tree (#100) | Easy | Trees |
 | 31 | Invert Binary Tree (#226) | Easy | Trees |
 | 32 | Symmetric Tree (#101) | Easy | Trees |
+| 33 | Diameter of Binary Tree (#543) | Easy | Trees |
 
-**Completed:** 32 / 100 ✅
+**Completed:** 33 / 100 ✅
 
 
 ## 📂 Topics Covered

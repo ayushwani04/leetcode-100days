@@ -43,8 +43,9 @@ Complete the 100 Days of LeetCode challenge while working toward solving 400+ Le
 | 33 | Diameter of Binary Tree (#543) | Easy | Trees |
 | 34 | Balanced Binary Tree (#110) | Easy | Trees |
 | 35 | Binary Tree Inorder Traversal (#94) | Easy | Trees |
+| 36 | Subtree of Another Tree (#572) | Easy | Trees |
 
-**Completed:** 35 / 100 ✅
+**Completed:** 36 / 100 ✅
 
 
 ## 📂 Topics Covered

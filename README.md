@@ -47,8 +47,9 @@ Complete the 100 Days of LeetCode challenge while working toward solving 400+ Le
 | 37 | Lowest Common Ancestor of a Binary Search Tree (#235) | Easy | Binary Search Tree |
 | 38 | Search in a Binary Search Tree (#700) | Easy | Binary Search Tree |
 | 39 | Insert into a Binary Search Tree (#701) | Medium | Binary Search Tree |
+| 40 | Single Number (#136) | Easy | Bit Manipulation |
 
-**Completed:** 39 / 100 ✅
+**Completed:** 40 / 100 ✅
 
 
 ## 📂 Topics Covered

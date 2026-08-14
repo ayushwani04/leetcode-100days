@@ -49,8 +49,9 @@ Complete the 100 Days of LeetCode challenge while working toward solving 400+ Le
 | 39 | Insert into a Binary Search Tree (#701) | Medium | Binary Search Tree |
 | 40 | Single Number (#136) | Easy | Bit Manipulation |
 | 41 | Group Anagrams (#49) | Medium | Hash Map |
+| 42 | Longest Consecutive Sequence (#128) | Medium | Hash Set |
 
-**Completed:** 41 / 100 ✅
+**Completed:** 42 / 100 ✅
 
 
 ## 📂 Topics Covered

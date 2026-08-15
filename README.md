@@ -50,8 +50,9 @@ Complete the 100 Days of LeetCode challenge while working toward solving 400+ Le
 | 40 | Single Number (#136) | Easy | Bit Manipulation |
 | 41 | Group Anagrams (#49) | Medium | Hash Map |
 | 42 | Longest Consecutive Sequence (#128) | Medium | Hash Set |
+| 43 | Climbing Stairs (#70) | Easy | Dynamic Programming |
 
-**Completed:** 42 / 100 ✅
+**Completed:** 43 / 100 ✅
 
 
 ## 📂 Topics Covered

@@ -51,8 +51,9 @@ Complete the 100 Days of LeetCode challenge while working toward solving 400+ Le
 | 41 | Group Anagrams (#49) | Medium | Hash Map |
 | 42 | Longest Consecutive Sequence (#128) | Medium | Hash Set |
 | 43 | Climbing Stairs (#70) | Easy | Dynamic Programming |
+| 44 | Longest Substring Without Repeating Characters (#3) | Medium | Sliding Window |
 
-**Completed:** 43 / 100 ✅
+**Completed:** 44 / 100 ✅
 
 
 ## 📂 Topics Covered
